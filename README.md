@@ -1,29 +1,35 @@
-APM Case Studies Portfolio
+APM Case Studies
 
-This repository contains product case studies created to develop product thinking, problem-solving, and product strategy skills.
+This repository contains product case studies created to strengthen product thinking, analytical reasoning, and problem-solving skills.
 
 Case Studies
 
 1. IRCTC Product Improvement
-- Problem Analysis
-- User Pain Points
-- Proposed Features
-- Success Metrics
+   - User pain points
+   - Product recommendations
+   - Success metrics
 
 2. LinkedIn LaunchPad
-- Product Strategy
-- User Personas
-- Roadmap
-- KPIs
+   - Product strategy
+   - User personas
+   - Roadmap planning
 
 3. YouTube FocusPath
-- Problem Statement
-- Solution Design
-- Business Impact
-- Metrics
+   - Problem identification
+   - Solution design
+   - Business impact analysis
+
+Skills Demonstrated
+
+- Product Thinking
+- User Research
+- Prioritization
+- Roadmapping
+- KPI Definition
+- Problem Solving
+- Data-Driven Decision Making
 
 Author
 
 Anjali Kumari
-
-Computer Science Graduate interested in Software Engineering, Product Management, and Data-Driven Problem Solving.
+Computer Science Graduate
